@@ -1,0 +1,29 @@
+$_black: #000000;
+$_grey: #efefef;
+$_green: #66c05d;
+$_white: #ffffff;
+
+.fs-16 {
+  font-size: 1.6rem !important;
+}
+.left {
+  display: flex;
+  justify-content: left;
+  flex-wrap: wrap;
+}
+.center {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.sp-be {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.al-co-center {
+  align-content: center;
+}
+.al-co-sp-be {
+  align-content: space-between;
+}
